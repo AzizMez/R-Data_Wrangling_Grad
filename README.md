@@ -12,9 +12,17 @@ Unfortunately with the data set I have I can only analyze 3 of these 6 highlight
 
 ## Primary Questions
 
-1. Between 2014 and 2024, who contributed to the most alley-oop dunks?
-2. What season contributed the most to long distance threes?
-3. Which team has the clutchest players?
+## Primary Questions
+
+1. Between 2014 and 2024, who contributed to the most alley-oop dunks?  
+   Specifically, I expect to see LeBron in the Top 5 with all the highlight plays I have seen, however I have not watched consistently during that time frame. Or a center potentially.
+
+2. What season contributed the most to long distance threes?  
+   I am planning to also look at the deepest 3 where I expect to see either Stephen Curry or Damian Lillard. As for which Season I remember 2015/2016 being a crazy year for deep 3s.
+
+3. Which team has the clutchest players?  
+   Usually the best players get the chance to score game winners that is why I would expect a team with LeBron James, Stephen Curry, or Kevin Durant.
+
 
 ## Data
 
