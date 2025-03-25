@@ -4,9 +4,9 @@
 Aziz Al Mezraani
 
 ### Quick Overview of Repository
-This repo contains two homeworks and a final project for the Data Wrangling course using R. The focus was on cleaning, reshaping, and preparing messy datasets for analysis.
+This repository contains two homeworks and a final project for the Data Wrangling course using R. The focus was on cleaning, reshaping, and preparing messy datasets for analysis.
 
-The final report explores NBA play-by-play data to identify top alley-oop duos, long-distance shooters, and clutch performers. All tasks demonstrate practical data wrangling techniques for real-world data.
+The final report explores NBA play-by-play data to identify top alley-oop duos, long-distance shooters, and clutch performers. The rest of this README is my project report.
 
 ## Introduction
 
