@@ -3,6 +3,11 @@
 **Author**  
 Aziz Al Mezraani
 
+### Quick Overview of Repository
+This repo contains two homeworks and a final project for the Data Wrangling course using R. The focus was on cleaning, reshaping, and preparing messy datasets for analysis.
+
+The final report explores NBA play-by-play data to identify top alley-oop duos, long-distance shooters, and clutch performers. All tasks demonstrate practical data wrangling techniques for real-world data.
+
 ## Introduction
 
 Personally, I love sports and one of my favorite sports is basketball. When watching, playing, or even gaming basketball there are 5 main plays that get me excited. Poster dunks, chase down blocks, alley-oop dunks, ankle breakers, long distance three pointers, and game winners. Unfortunately with the data set I have I can only analyze 3 of these 6 highlight plays: alley-oop dunks, long distance threes, and game winners.
