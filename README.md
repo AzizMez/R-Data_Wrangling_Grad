@@ -40,7 +40,7 @@ rmarkdown::paged_table(all_pbp_data)
 |10 |400559374 |Tim Duncan bad pass (Mario Chalmers steals)                  |https://www.espn.com/nba/playbyplay/_/gameId/400559374 |10:33 |https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/sa.png  |          7|          2|      1|20140605 |NA           |NA    |       NA|NA     |NA     |    NA| NA|sa   |
 |11 |400559374 |Dwyane Wade bad pass (Danny Green steals)                    |https://www.espn.com/nba/playbyplay/_/gameId/400559374 |10:27 |https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mia.png |          7|          2|      1|20140605 |NA           |NA    |       NA|NA     |NA     |    NA| NA|mia  |
 
-To see the full first 500 rows click here:
+To see the full first 500 rows click here: - [First 500 Rows](./paged_html.html)
 
 While this data comes in relatively clean, there are a few important variables that I need to create to answer my questions. I’ll start with the most important steps so that I can look into alley-oop dunkers and assisters. To be able to completely capture my idea in Question 1, I need to extract the successful alley-oop dunks that were made from the play description. Then extract the dunker from the shooter column and the assister from the play description.
 
